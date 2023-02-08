@@ -12,3 +12,16 @@ create database candidates
 <p>To get candidates use this GET endpoint http://localhost:8080/api/candidates/get-candidates</p>
 <p>To get single candidate use this GET endpoint http://localhost:8080/api/candidates/get-candidate?name=candidate-name</p>
 
+## Multi Choice Answers
+<ol>
+<li>B</li>
+<li>D</li>
+<li>A</li>
+<li>B</li>
+<li>D</li>
+<li>A</li>
+<li>E</li>
+<li>B</li>
+<li>C</li>
+
+</ol>
